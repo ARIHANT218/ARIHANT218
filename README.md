@@ -1,7 +1,5 @@
-<h1 align="center">Hi 👋, I'm ARIHANT</h1>
-
-<h3 align="center">A passionate Software Engineer Developer from India</h3>
-<img  align ="right" alt="Coding" widht="400" scr="![image](https://github.com/ARIHANT218/ARIHANT218/assets/157610621/c7bcf555-c446-4191-afa0-66aa5b6ab24a)
+![logo](![image](https://github.com/ARIHANT218/ARIHANT218/assets/157610621/65a3d114-48ca-454b-9f85-c85536f84468)
+)
 ">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arihant218&label=Profile%20views&color=0e75b6&style=flat" alt="arihant218" /> </p>
