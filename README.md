@@ -3,7 +3,9 @@
 ">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arihant218&label=Profile%20views&color=0e75b6&style=flat" alt="arihant218" /> </p>
-- 🔭 I’m currently Studying **computer science Engineering with Specialization in AI** 
+- 🔭 I’m currently Studying **computer science Engineering with Specialization in AI**
+
+
 
 
 - 🌱 I’m currently learning **REACT JS and JAVA**
