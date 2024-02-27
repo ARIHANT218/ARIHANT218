@@ -1,17 +1,15 @@
-![logo](![image](https://github.com/ARIHANT218/ARIHANT218/assets/157610621/65a3d114-48ca-454b-9f85-c85536f84468)
-)
-">
+<h1 align="center">Hi 👋, I'm ARIHANT</h1>
+<h3 align="center">A passionate Software Engineer Developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arihant218&label=Profile%20views&color=0e75b6&style=flat" alt="arihant218" /> </p>
+
 - 🔭 I’m currently Studying **computer science Engineering with Specialization in AI**
-
-
-
 
 - 🌱 I’m currently learning **REACT JS and JAVA**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://www.youtube.com/c/btech buddy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="btech buddy" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
