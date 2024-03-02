@@ -1,12 +1,10 @@
 
-
-![Uploading image.png…]()
-
-
 <h1 align="center">Hi 👋, I'm ARIHANT</h1>
 <h3 align="center">A passionate Software Engineer Developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arihant218&label=Profile%20views&color=0e75b6&style=flat" alt="arihant218" /> </p>
+<p> <img scr=" ![Uploading image.png…]()
+"></p>
 
 - 🔭 I’m currently Studying **computer science Engineering with Specialization in AI**
 
