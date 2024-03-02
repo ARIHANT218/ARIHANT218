@@ -1,5 +1,6 @@
-<img scr="![arihantlogo](https://github.com/ARIHANT218/ARIHANT218/assets/157610621/9b7405c8-5e02-4d9e-8b9b-c780bcaf2d2c)
+<img scr="![image](https://github.com/ARIHANT218/ARIHANT218/assets/157610621/85685e16-e161-41c8-9ecd-5a858fd10c42)
 "/>
+"/>s
 <h1 align="center">Hi 👋, I'm ARIHANT</h1>
 <h3 align="center">A passionate Software Engineer Developer from India</h3>
 
