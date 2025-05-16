@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently Studying **computer science Engineering with Specialization in AI**
 
-- 🌱 I’m currently learning **REACT JS and JAVA**
+- 🌱 I’m currently learning **MERN**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
