@@ -43,8 +43,8 @@
 
 | Project | Tech Used | Link |
 |--------|-----------|------|
-| 🏠 **Airbnb Clone** | React, Tailwind, Node.js, MongoDB | [GitHub Repo](https://github.com/ARIHANT218/AIRBNB-PROJECT) |
-| 💬 **Quick Chat App** | Node.js, MongoDB, Express, Auth | [GitHub Repo](https://github.com/ARIHANT218/Quick-Chat) |
+| 🏠 **Airbnb Clone** | React, Tailwind, Node.js, MongoDB , Auth | [GitHub Repo](https://github.com/ARIHANT218/AIRBNB-PROJECT) |
+| 💬 **Quick Chat App** | Node.js, MongoDB, Express,Socket.io , Auth | [GitHub Repo](https://github.com/ARIHANT218/Quick-Chat) |
 🧪 **AI Code Review Tool** | React.js, Node.js, Express, Google Gemini API, Tailwind CSS | [GitHub Repo](https://github.com/ARIHANT218/AI-Code-Review) |
 
 ---
