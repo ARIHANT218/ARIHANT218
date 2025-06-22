@@ -1,16 +1,22 @@
-## Hi there 👋
+## 📊 GitHub Stats & Contributions
 
-<!--
-**ARIHANT218/ARIHANT218** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ARIHANT218&show_icons=true&theme=tokyonight&count_private=true" height="180" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ARIHANT218&theme=tokyonight" height="180" />
+</p>
 
-Here are some ideas to get you started:
-                     
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...        
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ARIHANT218&layout=compact&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ARIHANT218&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ARIHANT218&theme=tokyonight&row=1&no-bg=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=ARIHANT218&theme=tokyonight&hide_border=true&area=true" />
+</p>
