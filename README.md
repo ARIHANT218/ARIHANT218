@@ -6,11 +6,73 @@
 
 ---
 
+## 👨‍💻 About Me
+
+- 🔭 I’m currently working on **Deep Learning**, **Full Stack**, and **Mobile App Development**, while enhancing my skills in **Data Structures & Algorithms (DSA)**.  
+- 👯 I’m looking to collaborate on **exciting web development projects** and **competitive programming challenges**.  
+- 🤝 I’m open to help and discussion on **problem-solving strategies** and **optimization techniques** (LeetCode / CodeChef).  
+- 🌱 Currently learning **advanced JavaScript**, **backend frameworks**, and diving deeper into **system design concepts**.  
+- 💬 Ask me about **coding challenges**, **web dev**, or **tips for competitive programming**.  
+- ⚡ Fun fact: *I believe every bug is just an undiscovered feature!*  
+
+---
+
 ## 🛠️ Tech Stack & Tools
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,tailwind,git,github,python,c" /><br/>
-  <img src="https://skillicons.dev/icons?i=opencv,numpy,pandas,scikit-learn,gcp" />
+### 👨‍💻 Programming Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,js,python,html" />
+</p>
+
+### 🌐 Web & App Development
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,reactnative,nodejs,express,flutter,tailwind,bootstrap,vercel,netlify" />
+</p>
+
+### 📦 Frameworks & Libraries
+<p>
+  <img src="https://img.shields.io/badge/React%20Query-FF4154?style=for-the-badge&logo=react-query&logoColor=white" />
+  <img src="https://img.shields.io/badge/React%20Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" />
+  <img src="https://img.shields.io/badge/React%20Hook%20Form-EC5990?style=for-the-badge&logo=reacthookform&logoColor=white" />
+</p>
+
+### 🧠 AI, ML & Data Science
+<p>
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-2060b5?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" />
+</p>
+
+### 💾 Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
+</p>
+
+### ☁️ Cloud & DevOps
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,git,github" />
+</p>
+
+### 🎨 UI/UX & Design
+<p>
+  <img src="https://skillicons.dev/icons?i=adobe,photoshop" />
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
+  <img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=for-the-badge&logo=adobe-premiere-pro&logoColor=white" />
+  <img src="https://img.shields.io/badge/Adobe%20After%20Effects-9999FF?style=for-the-badge&logo=adobe-after-effects&logoColor=white" />
+</p>
+
+### 🕹️ Game Engines & Tools
+<p>
+  <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" />
+  <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" />
+  <img src="https://img.shields.io/badge/Riot%20Games-D32936?style=for-the-badge&logo=riot-games&logoColor=white" />
+  <img src="https://img.shields.io/badge/Epic%20Games-313131?style=for-the-badge&logo=epic-games&logoColor=white" />
+  <img src="https://img.shields.io/badge/nVIDIA-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
+  <img src="https://img.shields.io/badge/AMD-ED1C24?style=for-the-badge&logo=amd&logoColor=white" />
 </p>
 
 ---
@@ -42,7 +104,7 @@
   <a href="https://www.linkedin.com/in/arihant-jain-25b070280/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-  <a href="mailto:arihantjainofficial@gmail.com">
+  <a href="mailto:arihantjain2002218@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
   <a href="https://github.com/ARIHANT218">
