@@ -9,7 +9,8 @@
 ## 🛠️ Tech Stack & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,tailwind,git,github,python,c" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,tailwind,git,github,python,c" /><br/>
+  <img src="https://skillicons.dev/icons?i=opencv,numpy,pandas,scikit-learn,gcp" />
 </p>
 
 ---
@@ -30,22 +31,8 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ARIHANT218&theme=tokyonight&row=1&no-bg=true" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-activity-graph.cyclic.app/graph?username=ARIHANT218&theme=tokyonight&hide_border=true&area=true" />
 </p>
-
----
-
-## 🔗 Featured Projects
-
-| Project | Tech Used | Link |
-|--------|-----------|------|
-| 🏠 **Airbnb Clone** | React, Tailwind, Node.js, MongoDB , Auth | [GitHub Repo](https://github.com/ARIHANT218/AIRBNB-PROJECT) |
-| 💬 **Quick Chat App** | Node.js, MongoDB, Express,Socket.io , Auth | [GitHub Repo](https://github.com/ARIHANT218/Quick-Chat) |
-🧪 **AI Code Review Tool** | React.js, Node.js, Express, Google Gemini API, Tailwind CSS | [GitHub Repo](https://github.com/ARIHANT218/AI-Code-Review) |
 
 ---
 
