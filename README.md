@@ -8,7 +8,7 @@
 
 ## 👨‍💻 About Me
 
-- 🔭 I’m currently working on **Deep Learning**, **Full Stack**, and **Mobile App Development**, while enhancing my skills in **Data Structures & Algorithms (DSA)**.  
+- 🔭 I’m currently working on **Deep Learning**, **Full Stack Development**, while enhancing my skills in **Data Structures & Algorithms (DSA)**.  
 - 👯 I’m looking to collaborate on **exciting web development projects** and **competitive programming challenges**.  
 - 🤝 I’m open to help and discussion on **problem-solving strategies** and **optimization techniques** (LeetCode / CodeChef).  
 - 🌱 Currently learning **advanced JavaScript**, **backend frameworks**, and diving deeper into **system design concepts**.  
